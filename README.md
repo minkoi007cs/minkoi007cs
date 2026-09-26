@@ -1,4 +1,4 @@
-![Khoi Hoang — Computer Science, AI/ML, data, robotics and embedded systems](./profile-banner.svg)
+![Khoi Hoang — Computer Science, AI/ML, data, robotics and embedded systems](https://raw.githubusercontent.com/minkoi007cs/minkoi007cs/bd62d12f2d936bcb9ae980e8cb782b0d88c9ffdb/profile-banner.svg)
 
 ## About me
 
