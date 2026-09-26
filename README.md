@@ -1,8 +1,8 @@
 # Khoi Hoang
 
-**Applied AI · Data · Robotics & Embedded Systems**
+**AI/ML & Deep Learning · Data · Robotics & Embedded Systems**
 
-I am a university student studying Robotics and Embedded Systems. I build practical AI and data products with Python and TypeScript, and I am interested in connecting machine learning with intelligent physical systems. I am open to AI/ML, data, robotics software, and embedded systems opportunities.
+I study Computer Science at Kent State University, with a focus on Robotics and Embedded Systems. I build practical AI and data products with Python and TypeScript. My interests include machine learning, deep learning, and connecting intelligent software with physical systems. I am open to opportunities across AI/ML, data, robotics software, and embedded systems.
 
 ## Featured work
 
