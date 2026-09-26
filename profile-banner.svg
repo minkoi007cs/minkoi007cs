@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Khoi Hoang — Computer Science, AI and robotics</title>
+<desc id="desc">Midnight blue banner with cyan and violet accents, a robotic arm, and a neural processor illustration.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#081426"/><stop offset=".6" stop-color="#111d39"/><stop offset="1" stop-color="#1b153b"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#53e3dc"/><stop offset="1" stop-color="#a27bff"/></linearGradient>
+  <radialGradient id="halo"><stop offset="0" stop-color="#7d65e5" stop-opacity=".36"/><stop offset="1" stop-color="#7d65e5" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#82a2d2" stroke-opacity=".12"/><circle r="1.2" fill="#72cfd4" fill-opacity=".38"/></pattern>
+  <clipPath id="frame"><rect width="1200" height="320" rx="22"/></clipPath>
+  <filter id="glow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="7"/></filter>
+</defs>
+<g clip-path="url(#frame)">
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <circle cx="1010" cy="160" r="280" fill="url(#halo)"/>
+  <rect x="704" width="496" height="320" fill="url(#grid)"/>
+  <path d="M0 319H1200" stroke="url(#accent)" stroke-width="3"/>
+  <path d="M719 0V320" stroke="#63d7dc" stroke-opacity=".15"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <rect x="58" y="44" width="13" height="13" rx="3" fill="url(#accent)"/>
+    <text x="84" y="56" fill="#9bb8d6" font-size="14" font-weight="700" letter-spacing="2.2">BUILDING INTELLIGENT SYSTEMS</text>
+    <path d="M58 76H592" stroke="#6f9ebd" stroke-opacity=".36"/>
+    <text x="56" y="150" fill="#f4f8ff" font-size="72" font-weight="700" letter-spacing="-2">Khoi Hoang</text>
+    <text x="60" y="196" fill="#c9d8eb" font-size="24" font-weight="500">Computer Science · Kent State University</text>
+    <rect x="58" y="235" width="98" height="38" rx="19" fill="#163f57" stroke="#3abac9" stroke-opacity=".65"/>
+    <text x="78" y="260" fill="#77efe9" font-size="15" font-weight="700">AI / ML</text>
+    <rect x="168" y="235" width="83" height="38" rx="19" fill="#192e52" stroke="#6277da" stroke-opacity=".65"/>
+    <text x="190" y="260" fill="#c7d2ff" font-size="15" font-weight="700">DATA</text>
+    <rect x="263" y="235" width="122" height="38" rx="19" fill="#193a53" stroke="#40b9c7" stroke-opacity=".65"/>
+    <text x="281" y="260" fill="#8fe4e6" font-size="15" font-weight="700">ROBOTICS</text>
+    <rect x="397" y="235" width="199" height="38" rx="19" fill="#2b2454" stroke="#8e70dc" stroke-opacity=".65"/>
+    <text x="418" y="260" fill="#d8c6ff" font-size="15" font-weight="700">EMBEDDED SYSTEMS</text>
+  </g>
+  <g fill="none" stroke="#4b7d9c" stroke-opacity=".5" stroke-width="2"><path d="M733 59h115l26 26h58M1169 255h-67l-26-26h-63M1106 31v43l-19 19M740 298h120l21-21"/></g>
+  <g fill="#53e3dc"><circle cx="733" cy="59" r="4"/><circle cx="932" cy="85" r="4"/><circle cx="1169" cy="255" r="4"/><circle cx="740" cy="298" r="4"/></g>
+  <path d="M793 267h103" stroke="#5885a9" stroke-width="11" stroke-linecap="round"/>
+  <path d="M815 255l67-82 84-27" fill="none" stroke="#7065e7" stroke-opacity=".5" stroke-width="29" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+  <path d="M815 255l67-82 84-27" fill="none" stroke="#273e69" stroke-width="27" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M815 255l67-82 84-27" fill="none" stroke="url(#accent)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#0e2038" stroke="#75e6e6" stroke-width="7"><circle cx="815" cy="255" r="21"/><circle cx="882" cy="173" r="18"/><circle cx="966" cy="146" r="15"/></g>
+  <g fill="#8cf3ed"><circle cx="815" cy="255" r="5"/><circle cx="882" cy="173" r="4"/><circle cx="966" cy="146" r="4"/></g>
+  <path d="M976 139l20-17m-20 31 20 17" stroke="#9e82ff" stroke-width="10" stroke-linecap="round"/>
+  <rect x="1014" y="89" width="130" height="130" rx="21" fill="#131e3c" stroke="#9d7dff" stroke-width="3"/>
+  <rect x="1028" y="103" width="102" height="102" rx="13" fill="#0b2740" stroke="#58dbdb" stroke-opacity=".7"/>
+  <g stroke="#83e8e6" stroke-width="3" stroke-linecap="round"><path d="M1052 129l27 25 24-25M1052 180l27-26 24 26M1049 153h60"/></g>
+  <g fill="#b8f9f7" stroke="#15314f" stroke-width="2"><circle cx="1052" cy="129" r="8"/><circle cx="1103" cy="129" r="8"/><circle cx="1079" cy="154" r="10"/><circle cx="1052" cy="180" r="8"/><circle cx="1103" cy="180" r="8"/></g>
+  <g stroke="#9985f7" stroke-width="5" stroke-linecap="round"><path d="M1036 78v11m29-11v11m29-11v11m29-11v11M1036 219v12m29-12v12m29-12v12m29-12v12M1002 111h12m-12 29h12m-12 29h12m-12 29h12m130-87h12m-12 29h12m-12 29h12m-12 29h12"/></g>
+  <circle cx="1079" cy="154" r="93" fill="none" stroke="#79d8e2" stroke-opacity=".14" stroke-width="2" stroke-dasharray="4 10"/>
+</g>
+</svg>
